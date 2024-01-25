@@ -1,0 +1,74 @@
+/* global style */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #202020;
+    color: #c20000;
+}
+
+.h1 {
+    color: #ff0000;
+}
+
+.p {
+    line-height: 1.5;
+}
+
+/* basic container for text and objects*/
+#container {
+    max-width: 80vw;
+    margin: 0 auto;
+    background-color: #c7c7c7b4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* button styles for left right and center*/
+#button {
+    max-width: 150px;
+    margin: 0 auto;
+    background-color: #646464;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    color:azure;
+}
+
+/* Dropdown styles */
+.dropdown-container {
+    position: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+#dropdown-L {
+    margin-left: 5vw;
+}
+
+#dropdown-R {
+    margin-left: 80px;
+}
+
+
+
+select {
+    max-width: 300px; /* Adjust width as needed */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: none;
+}
+
+.dropdown-container:hover #dropdown {
+    display: block;
+}

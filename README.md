@@ -1,7 +1,7 @@
 # Sort_Showcase
 
 
-			                	---G E N E R A L P U R P O S E---
+			        	---G E N E R A L P U R P O S E---
 	The Purpose of this Repository is to help visualize the difference in speed of sorting methods,  
 	by way of a basic bar-graph coupled with an explanation of the method used,as well as a Big O 
 	annotation to assist vocab/ algebraic understanding when talking about algorithms, and wrapping
@@ -11,14 +11,14 @@
 	I hope that by the end of this your understanding of algorithms 
 	and sorting methods are deepened.
 
-				                OPEN HTML INDEX AS A WEBPAGE TO LAUNCH.
+				        OPEN HTML INDEX AS A WEBPAGE TO LAUNCH.
 
 					
 
 
-				                      ---Ver control---
+				        	 ---Ver control---
 
-	              feel free to reach out to me to make suggestions
+	            		  feel free to reach out to me to make suggestions
 
 ---Ver 1.00---
 

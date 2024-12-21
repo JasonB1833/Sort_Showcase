@@ -13,9 +13,8 @@
 
  				    PYTHON LIBRARIES USED TO CREATE / RUN THIS PROJECT:
 					- Tkinter
-     					- Time
+     				- Time
 	  				- Matplotlib
-       					- time
 	    				- random
 
 					--- HOW TO RUN / TEST THE PROJECT ---
@@ -56,7 +55,7 @@
 
   - Refactored project to be entirely python based
   - created basic Tkinter / Matplotlib Gui
-  - created graph poppulation file "Graph.py"
+  - created graph population file "Graph.py"
   - Created basic sort algorithm file "sort.py"
  
 

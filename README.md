@@ -23,7 +23,7 @@
   					
 					RUN "main.py" WITHIN THE PROJECT TO START THE SHOWCASE.
 
-     					INSERT AN INTEGER INTO THE INPUT TO GENERATE THAT NUMBER OF ITEMS ON THE GRAPH
+     				INSERT AN INTEGER INTO THE INPUT TO GENERATE THAT NUMBER OF ITEMS ON THE GRAPH
 
    					CHOOSE SORT TYPE TO TEST
 
@@ -51,7 +51,7 @@
 
 
 
-						---   REFACTOR   ----
+							---   REFACTOR   ----
 
   - Refactored project to be entirely python based
   - created basic Tkinter / Matplotlib Gui
